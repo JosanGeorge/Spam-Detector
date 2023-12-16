@@ -31,8 +31,8 @@ Make sure you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/spam-detector.git
-cd spam-detector
+git clone https://github.com/JosanGeorge/Spam-Detector.git
+cd Spam-Detector
 ```
 
 Install the required Python packages:
