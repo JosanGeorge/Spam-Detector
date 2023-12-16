@@ -8,7 +8,6 @@ This project implements a simple and effective spam detector using machine learn
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files and Directory Structure](#files-and-directory-structure)
