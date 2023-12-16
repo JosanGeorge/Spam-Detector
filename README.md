@@ -12,7 +12,6 @@ This project implements a simple and effective spam detector using machine learn
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files and Directory Structure](#files-and-directory-structure)
-- [License](#license)
 - [Datasets](#datasets)
 
 ## Getting Started
