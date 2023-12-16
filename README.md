@@ -57,7 +57,7 @@ pip install -r requirements.txt
 - **README.md**: Project documentation.
 
 ```
-spam-detector/
+Spam-Detector/
 ├── Spam Detector.ipynb
 ├── datasets/
 │   ├── emails_dataset.csv
